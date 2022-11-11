@@ -10,6 +10,8 @@ npm install -g false-random-message
 
 # Usage
 
+Execute this command in your terminal
+
 ```bash
  false-random-message
 ```
