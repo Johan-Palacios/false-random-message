@@ -1,0 +1,24 @@
+{
+  "name": "false-random-message",
+  "version": "1.0.0",
+  "description": "Random String Mesagges Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johan-Palacios/false-random-message.git"
+  },
+  "keywords": ["javascript", "random", "message"],
+  "author": "Johan Palacios <johanpalacios.rivera@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johan-Palacios/false-random-message/issues"
+  },
+  "homepage": "https://github.com/Johan-Palacios/false-random-message#readme",
+  "bin": {
+    "false-random-message": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
